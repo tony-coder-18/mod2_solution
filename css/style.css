@@ -11,6 +11,12 @@
   width: 25%;
   border: solid 1px black;
   padding: 1%;
+  color: #27160c;
+  background-color: #FFA269;
+  }
+
+  h1{
+    color:#914516;
   }
 
   p{
@@ -22,7 +28,7 @@
   }
   
 header{
-  color: green;
+  
   margin: 40px 70px;
   text-align: center; 
 }
@@ -53,8 +59,9 @@ header{
   .col-lg-11,
   .col-lg-12 {
     float: left;
-    border: 1px solid green;
+    border: 1px solid black;
     margin: 1%;
+    background-color: rgb(240, 244, 244);
   }
   .col-lg-1 {
     width: 8.33%;
