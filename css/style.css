@@ -121,6 +121,7 @@ header{
     float: left;
     border: 1px solid black;
     margin: 1%;
+    background-color: rgb(240, 244, 244);
   }
   .col-md-1 {
     width: 8.33%;
@@ -167,6 +168,7 @@ header{
     float: left;
     border: 1px solid black;
     margin: 1%;
+    background-color: rgb(240, 244, 244);
   }
 
 .col-sm-12 {
